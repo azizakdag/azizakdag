@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">rd Year Computer Engineering Student | Exploring AI to build impactful projects.</h3>
+<h3 align="center">3rd Year Computer Engineering Student | Exploring AI to build impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizakdag&label=Profile%20views&color=0e75b6&style=flat" alt="azizakdag" /> </p>
 
