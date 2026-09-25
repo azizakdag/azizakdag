@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz</h1>
-<h3 align="center">3rd Year Computer Engineering Student | Exploring AI to build impactful projects.</h3>
+<h3 align="center">4rd Year Computer Engineering Student | Exploring AI to build impactful projects.</h3>
 
 
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Computer Engineering 3rd Year, Python, C++**
 
-- 📫 How to reach me **azizakdq21@gmail.com**
+- 📫 How to reach me **azizakdagmain@gmail.com**
 
 - ⚡ Fun fact **I enjoy taking things apart to see how they work, though putting them back together is a different story.**
 
