@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Advanced Linux Terminal & Git Workflows**
 
-- 💬 Ask me about **Computer Engineering 3rd Year, Python, C++**
+- 💬 Ask me about **Computer Engineering 4rd Year, Python, C++**
 
 - 📫 How to reach me **azizakdagmain@gmail.com**
 
